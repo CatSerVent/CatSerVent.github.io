@@ -43,7 +43,7 @@ HP 시스템이 있어 아이템으로 HP를 관리
 
 ## 이미지
 ### 관련 이미지
-![Example Image](캡처.png)
+![Example Image](Image.PNG)
 
 
 
