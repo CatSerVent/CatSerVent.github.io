@@ -1,27 +1,38 @@
-# Table of Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-   - [Basic Usage](#basic-usage)
-   - [Advanced Features](#advanced-features)
-4. [Contributing](#contributing)
-5. [License](#license)
+# 프로젝트명: Every Day (윤종수)
 
-## Introduction
+# 목차
+1. [프로젝트 소개](#introduction)
+2. [컨셉](#installation)
+3. [이미지](#installation)
+4. [구성요소](#installation)
+5. [개발 요구사항](#installation)
+6. [주차별 개발활동](#installation)
+
+## 프로젝트 소개
+### 게임 소개
+#### 게임 설명
+아포칼립스 세계에서 좀비를 죽이거나 피하며 임무를 클리어 하는 게임
+
+#### 목표
+게임 클리어와 생존을 위해 아이템을 사용하여 HP를 관리하며, 주 임무를 완수하면 클리어
+
+#### 프로젝트 주요 기능
+캐릭터 이동 및 공격
+좀비 AI 및 리스폰
+아이템 및 인벤토리
+게임 UI 및 상호작용
+사운드
+
+## 컨셉
 내용을 작성하세요.
 
-## Installation
+## 이미지
+
+## 구성요소
 내용을 작성하세요.
 
-## Usage
-### Basic Usage
+## 구성요소 분석
 내용을 작성하세요.
 
-### Advanced Features
-내용을 작성하세요.
-
-## Contributing
-내용을 작성하세요.
-
-## License
+## 구성요소 분석
 내용을 작성하세요.
