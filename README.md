@@ -71,8 +71,11 @@
 
 ### 컨텐츠
 게임 맵 디자인  
-- 맵  
-![Example Image](맵.png)  
+- 맵
+  <details>
+    <summary>사진</summary>
+    ![Example Image](맵.png)  
+  </details>
 
 좀비 3D 모델링  
 - 남자좀비  
