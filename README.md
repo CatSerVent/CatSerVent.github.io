@@ -71,20 +71,30 @@
 
 ### 컨텐츠
 게임 맵 디자인  
--![Example Image](맵.png)  
+- 맵  
+![Example Image](맵.png)  
 
 좀비 3D 모델링  
--![Example Image](남자좀비.png)  
--![Example Image](여자좀비.png)  
--![Example Image](뛰는좀비.png)  
--![Example Image](탱크좀비.png)  
+- 남자좀비  
+![Example Image](남자좀비.png)  
+- 여자좀비  
+![Example Image](여자좀비.PNG)  
+- 뛰는좀비  
+![Example Image](뛰는좀비.png)  
+- 탱크좀비  
+![Example Image](탱크좀비.png)  
 
 아이템 모델링  
--![Example Image](매디킷.png)  
--![Example Image](콜라.png)  
--![Example Image](음식.png)  
--![Example Image](백신.png)  
--![Example Image](나무판자.png)  
+- 매디킷  
+![Example Image](매디킷.png)  
+- 콜라  
+![Example Image](콜라.png)  
+- 음식  
+![Example Image](음식.png)  
+- 백신  
+![Example Image](백신.png)  
+- 나무판자  
+![Example Image](나무판자.png)  
 
 ## 대표 이미지
 ![Example Image](Image.png)
