@@ -74,30 +74,67 @@
 - 맵
   <details>
     <summary>사진</summary>
+    
     ![Example Image](맵.png)  
   </details>
 
 좀비 3D 모델링  
-- 남자좀비  
-![Example Image](남자좀비.png)  
-- 여자좀비  
-![Example Image](여자좀비.PNG)  
-- 뛰는좀비  
-![Example Image](뛰는좀비.png)  
+- 남자좀비
+  <details>
+    <summary>사진</summary>
+    
+    ![Example Image](남자좀비.png)  
+  </details>
+- 여자좀비
+  <details>
+    <summary>사진</summary>
+    
+    ![Example Image](여자좀비.png)  
+  </details>
+- 뛰는좀비
+  <details>
+    <summary>사진</summary>
+    
+    ![Example Image](뛰는좀비.png)  
+  </details>
 - 탱크좀비  
-![Example Image](탱크좀비.png)  
+  <details>
+    <summary>사진</summary>
+    
+    ![Example Image](탱크좀비.png)  
+  </details>
 
 아이템 모델링  
 - 매디킷  
-![Example Image](매디킷.png)  
+  <details>
+    <summary>사진</summary>
+    
+    ![Example Image](매디킷.png)  
+  </details>
 - 콜라  
-![Example Image](콜라.png)  
+  <details>
+    <summary>사진</summary>
+    
+    ![Example Image](콜라.png)  
+  </details> 
 - 음식  
-![Example Image](음식.png)  
+  <details>
+    <summary>사진</summary>
+    
+    ![Example Image](음식.png)  
+  </details>
 - 백신  
-![Example Image](백신.png)  
+  <details>
+    <summary>사진</summary>
+    
+    ![Example Image](백신.png)  
+  </details>
 - 나무판자  
-![Example Image](나무판자.png)  
+  <details>
+    <summary>사진</summary>
+    
+    ![Example Image](나무판자.png)  
+  </details>
 
 ## 대표 이미지
 ![Example Image](Image.png)
