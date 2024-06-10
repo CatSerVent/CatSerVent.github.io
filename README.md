@@ -71,70 +71,30 @@
 
 ### 컨텐츠
 게임 맵 디자인  
-- 맵
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](맵.png)  
-  </details>
-
+- 맵  
+![Example Image](맵.png)  
+  
 좀비 3D 모델링  
-- 남자좀비
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](남자좀비.png)  
-  </details>
-- 여자좀비
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](여자좀비.PNG)  
-  </details>
-- 뛰는좀비
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](뛰는좀비.png)  
-  </details>
+- 남자좀비  
+![Example Image](남자좀비.png)  
+- 여자좀비  
+![Example Image](여자좀비.PNG)  
+- 뛰는좀비  
+![Example Image](뛰는좀비.png)  
 - 탱크좀비  
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](탱크좀비.png)  
-  </details>
-
+- ![Example Image](탱크좀비.png)
+  
 아이템 모델링  
 - 매디킷  
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](매디킷.png)  
-  </details>
+![Example Image](매디킷.png)  
 - 콜라  
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](콜라.png)  
-  </details> 
+![Example Image](콜라.png)  
 - 음식  
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](음식.png)  
-  </details>
+![Example Image](음식.png)  
 - 백신  
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](백신.png)  
-  </details>
+![Example Image](백신.png)  
 - 나무판자  
-  <details>
-    <summary style="color:blue;">사진</summary>
-    
-    ![Example Image](나무판자.png)  
-  </details>
+![Example Image](나무판자.png)  
 
 ## 대표 이미지
 ![Example Image](Image.png)
