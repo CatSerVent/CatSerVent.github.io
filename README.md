@@ -142,4 +142,4 @@
 7. 좀비들이 공격을 시작하고 일정시간이 지나면 헬기 생성 및 탈출
 
 ## 구현영상
-[![구현영상](영상이미지.png)](https://youtu.be/b6163BGbsbA)
+[![구현영상](Image.png)](https://youtu.be/b6163BGbsbA)
