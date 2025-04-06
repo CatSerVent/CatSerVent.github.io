@@ -33,6 +33,8 @@
 
 # 기능 및 컨텐츠
 ## 기능  
+<details>
+ <summary> 더보기 </summary>
 ### 캐릭터 이동 및 공격 기능  
 - WASD를 사용하여 캐릭터를 이동  
 - 마우스 좌클릭시 발사   
@@ -71,9 +73,11 @@
 - 좀비 소리
 - 총 소리
 - 캐릭터 이동 소리
+</details>
 
 ## 컨텐츠
-
+<details>
+ <summary> 더보기 </summary>
 ### 게임 맵 디자인  
 - 맵  
 ![Example Image](맵.png)  
@@ -99,6 +103,7 @@
 ![Example Image](백신.png)  
 - 나무판자  
 ![Example Image](나무판자.png)  
+</details>
 
 [목차](#목차)
 
