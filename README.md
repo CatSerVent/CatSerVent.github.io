@@ -35,6 +35,7 @@
 ## 기능  
 <details>
  <summary> 더보기 </summary>
+ 
 ### 캐릭터 이동 및 공격 기능  
 - WASD를 사용하여 캐릭터를 이동  
 - 마우스 좌클릭시 발사   
@@ -78,6 +79,7 @@
 ## 컨텐츠
 <details>
  <summary> 더보기 </summary>
+ 
 ### 게임 맵 디자인  
 - 맵  
 ![Example Image](맵.png)  
